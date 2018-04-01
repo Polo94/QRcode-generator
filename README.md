@@ -10,4 +10,4 @@ A faire :
 
 * Création de la view QRcode
 
-* Création du model QRcode (sauvegarde des QRcodes générés pour accès à posteriori)
+* Création du model QRcode (sauvegarde des QRcodes générés pour accès a posteriori)
